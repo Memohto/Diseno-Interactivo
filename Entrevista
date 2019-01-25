@@ -1,0 +1,10 @@
+Una página web.
+Propósito: cotizador para proyectos multimedia.
+Diseño perrón y que se pueda usar en dispositivos móviles también.
+Tiene una pantalla principal depresentación con un diseño fluido de scroll (mientras bajas te muestra opciones).
+Secciones (formulario que se manda, a alguién para que lo cheque):
+    1. Presentación de la empresa.
+    2. Showroom de los servicios.
+    3. Cotizador (los usuarios ingresan tipo de proyecto, el número de días, comentarios, etc.)
+    4. Botón.
+Contactos y redes sociales.
